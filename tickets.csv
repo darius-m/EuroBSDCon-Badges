@@ -1,3 +1,3 @@
-1,Foo Bar,foo@bar.tar,Speaker,Conference (Individual),Social event
+1,Foo Bar,foo@bar.tar,Speaker,Conference (Individual),Social event,Tutorial: Introduction to BGP for developers and sysadmins
 2,Foo Bar,foo@bar.tar,Wheel,Conference (Individual),Social event
-3,Foo Bar,foo@bar.tar,Attendee,Conference (Individual)
+3,Foo Bar,foo@bar.tar,Attendee,Conference (Individual),FreeBSD devsummit (Thursday),FreeBSD devsummit (Friday),Tutorial: Advanced container management with libiocage,Tutorial: Ports and Poudriere,Tutorial: An Introduction to the FreeBSD Open-Source Operating System
